@@ -65,6 +65,7 @@ html {
     background-color: #111;
     color: #fff;
     padding: 20px;
+    border-radius: 25px;
   }
   .border.trans {
     background-color: transparent;
